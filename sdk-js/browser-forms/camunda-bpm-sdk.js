@@ -30,7 +30,7 @@ var BaseClass = require('./../base-class');
 function noop() {}
 /**
  * Abstract class for resources
- *
+ 
  * @class
  * @augments {CamSDK.BaseClass}
  * @memberof CamSDK.client
